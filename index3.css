@@ -1,0 +1,78 @@
+a{
+    position: relative;
+}
+h2{
+    position: absolute;
+    left: 250px;
+}
+h3{
+    position:absolute;
+    left: 20px;
+}
+h4{
+    position: absolute; 
+    left: 20px;
+}
+.lab{
+    position: absolute;
+  
+    left: 30px;
+}
+.check{
+    position: absolute;
+    left: 10px;
+}
+.c{
+    position: absolute;
+    color: cornflowerblue;
+    left: 48px;
+}
+
+.d{
+    position: absolute;
+    color: cornflowerblue;
+    left: 154px;
+}
+
+.e{
+    position: absolute;
+    left: 160px;
+}
+.f{
+    position: absolute;
+    left: 160px;
+}
+.b{
+    margin: auto;
+    background-color: white;
+    height: 430px;
+    width: 40%;
+    /* text-align: center; */
+   padding: 1%;
+    position: absolute;
+    top: 70px;
+    left: 400px;
+    border-radius: 10px;
+}
+
+.signin{
+    border: none;
+    color: #fff;
+    background-color:rgb(0, 88, 139);
+    height: 50px;
+    width: 490px ;
+}
+.input{
+    border: 1px solid rgb(167, 160, 160);
+    outline:none;
+    background-color: white;
+    height: 50px;
+    }
+    .for{
+        position: absolute;
+        left: 200px;
+    }
+    .acc{
+        position: absolute;
+        left: 200px;
+    }
